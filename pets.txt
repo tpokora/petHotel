@@ -1,6 +1,6 @@
-#N:Agama Brodata;#D:qwerty;#AD:2014-07-11;#RD:nieodebrano;#ST:47;#S1:5.0;#S2:4.0;#S3:3.0;#P:141,00;
-#N:Gekon Lamparci;#D:qwe;#AD:2014-07-09;#RD:nieodebrano;#ST:49;#S1:5.0;#S2:4.0;#S3:3.0;#P:147,00;
-#N:Agama Brodata;#D:test;#AD:2014-07-08;#RD:nieodebrano;#ST:50;#S1:5.0;#S2:4.0;#S3:3.0;#P:150,00;
-#N:Agama Brodata;#D:qwe;#AD:2014-07-04;#RD:nieodebrano;#ST:54;#S1:5.0;#S2:4.0;#S3:3.0;#P:162,00;
-#N:Agama Brodata;#D:yo;#AD:2014-06-04;#RD:nieodebrano;#ST:84;#S1:5.0;#S2:4.0;#S3:3.0;#P:252,00;
-#N:Gekon Lamparci;#D:test1;#AD:2014-06-03;#RD:nieodebrano;#ST:85;#S1:5.0;#S2:4.0;#S3:3.0;#P:255,00;
+#N:Agama Brodata;#D:qwerty;#AD:2014-07-11;#RD:nieodebrano;#ST:84;#S1:5.0;#S2:4.0;#S3:3.0;#P:252.00;
+#N:Gekon Lamparci;#D:qwe;#AD:2014-07-09;#RD:nieodebrano;#ST:86;#S1:5.0;#S2:4.0;#S3:3.0;#P:258.00;
+#N:Agama Brodata;#D:test;#AD:2014-07-08;#RD:nieodebrano;#ST:87;#S1:5.0;#S2:4.0;#S3:3.0;#P:261.00;
+#N:Agama Brodata;#D:qwe;#AD:2014-07-04;#RD:nieodebrano;#ST:91;#S1:5.0;#S2:4.0;#S3:3.0;#P:273.00;
+#N:Agama Brodata;#D:yo;#AD:2014-06-04;#RD:nieodebrano;#ST:121;#S1:5.0;#S2:4.0;#S3:3.0;#P:363.00;
+#N:Gekon Lamparci;#D:test1;#AD:2014-06-03;#RD:nieodebrano;#ST:122;#S1:5.0;#S2:4.0;#S3:3.0;#P:366.00;

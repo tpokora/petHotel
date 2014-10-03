@@ -91,18 +91,23 @@ public class Pet {
 	public double getStake1() {
 		return stake1;
 	}
+	
 	public void setStake1(double steak1) {
 		this.stake1 = steak1;
 	}
+	
 	public double getStake2() {
 		return stake2;
 	}
+	
 	public void setStake2(double steak2) {
 		this.stake2 = steak2;
 	}
+	
 	public double getStake3() {
 		return stake3;
 	}
+	
 	public void setStake3(double steak3) {
 		this.stake3 = steak3;
 	}
